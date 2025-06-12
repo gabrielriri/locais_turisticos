@@ -12,7 +12,12 @@
         p {
             font-style: italic;
             text-align: center;
-            
+
         }
+    }
+    .divider {
+        height: 1px;
+        background: var(--border-primary);
+        margin-block: 4rem;
     }
 }
